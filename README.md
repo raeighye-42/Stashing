@@ -1,5 +1,7 @@
 # Stashing Title
 
+## I Was Here
+
 A simple, modern-styled web page built with plain HTML and an external CSS file.
 
 ## Structure
