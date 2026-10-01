@@ -1,4 +1,4 @@
-# This is my Dev, Hello
+# Stashing Title
 
 A simple, modern-styled web page built with plain HTML and an external CSS file.
 
@@ -16,3 +16,4 @@ Open [index.html](index.html) directly in a browser.
 Feel free to use and modify this project for your own purposes.! 
 
 # 🐳
+42 lines
